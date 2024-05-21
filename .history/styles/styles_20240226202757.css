@@ -1,0 +1,14 @@
+body{
+
+
+    background-color: rgba(47, 99, 28, 0.984);
+}
+
+#Principal{
+
+    font-size: 4em;
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    display: flex;
+    justify-content: center;
+}

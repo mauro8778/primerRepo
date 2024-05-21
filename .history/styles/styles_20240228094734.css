@@ -1,0 +1,33 @@
+body{
+
+    background-color: rgb(128, 179, 65);
+}
+
+.uno{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    margin: auto;
+    padding: 1em 1em 1em 1em ;
+    text-align: center;
+
+}
+li{
+    border: 1px solid black;
+    padding: 1em 1em 1em 1em;
+    margin:auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5em;
+
+}
+li:hover{
+
+    scale: 1.5;
+   
+}
+#caja{
+
+    display: flex;
+    padding: 1em 1em 1em 1em;
+    margin:auto; 
+    height: auto;
+}

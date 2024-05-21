@@ -1,0 +1,13 @@
+body{
+
+    background-color: rgb(128, 179, 65);
+}
+
+.uno{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    margin: auto;
+    padding: 1em 1em 1em 1em ;
+    text-align: center;
+    background-image: image(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fes%2Fsearch%3Fq%3Dmanchas&psig=AOvVaw30GoOADyNCoEbfl3PkT4a2&ust=1709136886889000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCChpv1y4QDFQAAAAAdAAAAABAE);
+}

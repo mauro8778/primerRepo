@@ -1,0 +1,24 @@
+body{
+
+    background-color: rgb(128, 179, 65);
+}
+
+.uno{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3em;
+    margin: auto;
+    padding: 1em 1em 1em 1em ;
+    text-align: center;
+    background-image: url(/imagenes/mancha.jpg);
+}
+li{
+    border: 0.5em solid black;
+    padding: 1em 1em 1em 1em;
+
+}
+#caja{
+
+    display: flex;
+    background-color: beige;
+    paddin: 1em 1em 1em 1em;
+}

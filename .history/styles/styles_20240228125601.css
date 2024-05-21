@@ -1,0 +1,156 @@
+body{
+
+    background-image: linear-gradient(to right, #ff0000, black,#efeff2,red, black);
+}
+.uno{
+    font-family:"Comic Sans MS";
+    font-size: 3em;
+    margin: auto;
+    padding: 1em 1em 1em 0em ;
+    text-align: center;
+    color: white;
+   
+}
+.cajitas{
+   
+    padding: 1em 1em 1em 1em;
+    margin:auto;
+    font-family: "Comic Sans MS";
+    font-size: 1.5em;
+    transition: transform 0.4s ease;
+    border-radius: 4%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    color: white;
+    background-color: white(135, 0, 0);
+}
+.cajitas:hover{
+
+    scale: 1.5;
+    transform: rotate(360deg)
+}
+#caja{
+
+    display: flex;
+    padding: 3em 1em 3em 4em;
+    margin:auto; 
+    height: auto;
+}
+#sobremi{
+
+    padding: 8em 5em 10em 2em;
+    margin: auto;
+    text-align: center;
+    float: left;
+    color: white;
+    background-color: #333;
+}
+.nombre{
+
+    padding: 1em 1em 1em 1em;
+    margin: auto;
+    font-size: 2em;
+    color: white;
+    
+}
+h2{
+    font-family: "Comic Sans MS";
+    text-align: center;
+    font-style: italic;
+    font-size: 1.2em;
+    color:white;
+}
+
+#mistecnologiasfavoritas{
+    text-align: center;
+    padding: 1em 1em 2em 1em;
+    margin: auto;
+}
+.dos{
+
+    padding: 5em 1em 4em 1em;
+    margin: auto;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    color: white;
+}
+#cajafoto{
+
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.foto{
+
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: auto;
+    border: 0.5px solid black;
+    border-radius: 10%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    width: 18%;
+    background-color: #f0f0f0;
+    
+}
+.foto:hover{
+
+    scale: 1.2;
+    opacity: 0.8;
+}
+
+#misactividadesfavoritas{
+
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    justify-content: center;
+}
+
+label{
+
+    margin: auto;
+    padding: 1em 2em 1em 1em;
+    font-size: 1em;
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+    float: inline-start;
+    color: white;
+    text-align: left;
+}
+input{
+
+    border-radius: 8%;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: auto;
+   box-shadow: 0 0 5px rgba(243, 5, 5, 0.1); 
+    width: 300px; 
+    height: 20px; 
+    border-radius: 5px; 
+    background-color: #f0f0f0;
+    color: #333;
+}
+form{
+
+    width: 300px; 
+    margin: 0;
+    padding: 1em 1em 2em 1em;
+
+
+}
+textarea{
+
+    padding: 1em 1em 1em 1em;
+    box-shadow: 0 0 5px rgba(243, 5, 5, 0.1); 
+    font-family: "Comic Sans MS";
+}
+button{
+    
+    padding: 1em 1em 1em 1em;
+    margin: auto;
+    align-items: left;
+    margin-top: 30px;
+    border-radius: 15%;
+    
+}
+button:hover{
+
+    transition: cubic-bezier();
+}

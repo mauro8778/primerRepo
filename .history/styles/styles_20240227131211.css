@@ -1,0 +1,14 @@
+body{
+
+    background-color: rgb(128, 179, 65);
+}
+
+.uno{
+
+    background-color: beige;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 4em;
+    margin: auto;
+    padding: 1em 1em 1em 1em ;
+    align-items: center;
+}

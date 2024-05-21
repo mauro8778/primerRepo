@@ -1,0 +1,184 @@
+body{
+
+background-color: #C3EFE8;
+
+}
+nav{
+align-items: center;
+    background-image: url(/imagenes/mancha.jpg);
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    
+    margin: center;
+    padding: 1em 1em 1em 1em;
+}
+.uno{
+    font-family:"Comic Sans MS";
+    font-size: 3em;
+    margin: auto;
+    padding: 1em 1em 1em 0em ;
+    text-align: center;
+    color: black;
+   
+}
+.cajitas{
+   
+    padding: 1em 1em 1em 1em;
+    margin:auto;
+    font-family: "Comic Sans MS";
+    font-size: 1.5em;
+    transition: transform 0.4s ease;
+    border-radius: 4%;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    color:  black;
+    background-color: white(135, 0, 0);
+}
+.cajitas:hover{
+
+    scale: 1.5;
+    transform: rotate(360deg)
+}
+#caja{
+
+    display: flex;
+    padding: 3em 1em 3em 4em;
+    margin:auto; 
+    height: auto;
+}
+#sobremi{
+
+    padding: 5em 5em 5em 7em;
+    margin: auto;
+    color:   black;
+}
+.yo{
+    display: flex;
+    align-items: left;
+    text-align: left;
+}
+
+
+
+.nombre{
+
+    padding: 1em 3em 1em 1em;
+    margin: auto;
+    font-size: 2em;
+    color:  black;
+    background-image: url(/imagenes/fondo.jpg);
+    background-position: center;
+    border-radius: 25%;
+    text-align: center;
+    
+}
+h2{ padding: 1em 1em 1em 1em;
+    font-family: "Comic Sans MS";
+    font-style: italic;
+    font-size: 1.2em;
+    color: black;
+}
+
+#mistecnologiasfavoritas{
+    text-align: center;
+    padding: 1em 1em 2em 1em;
+    margin: auto;
+    border: 1px solid blue;
+    background-image: url(/imagenes/fondo.jpg);
+    background-position: center;
+}
+
+.dos{
+
+    padding: 3em 1em 4em 1em;
+    margin: auto;
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    color:  black;
+    
+
+    
+}
+#cajafoto{
+
+    margin: auto;
+    display: flex;
+    align-items: center;
+    padding:  1em 3em 1em 1em;
+    background-image: url(/imagenes/mancha.jpg);
+}
+.foto{
+
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: auto;
+    border: 0.5px solid black;
+    border-radius: 10%;
+    box-shadow: 0px 0px 10px rgba(251, 251, 251, 0.5);
+    width: 18%;
+    background-color: white;
+    
+}
+.foto:hover{
+
+    scale: 1.2;
+    opacity: 0.8;
+}
+
+#misactividadesfavoritas{
+
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    justify-content: center;
+}
+
+label{
+
+    margin: auto;
+    padding: 1em 2em 1em 1em;
+    font-size: 1em;
+    font-family: "Comic Sans MS";
+    text-decoration: underline;
+    float: inline-start;
+    color:  black;
+    text-align: left;
+}
+input{
+
+    border-radius: 8%;
+    padding: 0.5em 0.5em 0.5em 0.5em;
+    margin: auto;
+   box-shadow: 0 0 5px rgba(243, 5, 5, 0.1); 
+    width: 300px; 
+    height: 20px; 
+    border-radius: 5px; 
+    background-color: #f0f0f0;
+    color: #333;
+}
+form{
+
+    width: 300px; 
+    margin: 0;
+    padding: 1em 1em 2em 1em;
+
+
+}
+textarea{
+
+    padding: 1em 1em 1em 1em;
+    box-shadow: 0 0 5px rgba(243, 5, 5, 0.1); 
+    font-family: "Comic Sans MS";
+}
+button{
+    
+    padding: 1em 1em 1em 1em;
+    margin: auto;
+    align-items: left;
+    margin-top: 30px;
+    border-radius: 15%;
+    
+}
+button:hover{
+
+    transition: cubic-bezier();
+}

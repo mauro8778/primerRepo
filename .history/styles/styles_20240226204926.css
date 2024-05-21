@@ -1,0 +1,75 @@
+body{
+
+
+    background-color: rgba(47, 99, 28, 0.984);
+}
+
+#Principal{
+
+    font-size: 3em;
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    display: flex;
+    justify-content: center;
+}
+
+#yo{
+    font-size: 2em;
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    display: flex;
+    justify-content: left;
+}
+
+#cuadro{
+    font-size: 1.5em;
+    width: 500px; 
+    height: 500px; 
+    margin: 40px;
+    padding: 20px;
+   
+}
+
+#tecnologia{
+
+    font-size: 2em;
+    margin: auto;
+    padding: 1em 1em 1em 1em;
+    display: flex;
+    justify-content: right;
+}
+
+.logo1{
+
+    width: 20em;
+    height: 20em;
+    margin: auto;
+     margin-top:3em;
+    display: flex;
+    padding: 1em 1em 1em 1em;
+ 
+}
+.logo2{
+
+    width: 200px;
+    margin: auto;
+     margin-top:3em;
+    display: flex;
+    padding: 1em 1em 1em 1em;
+ 
+}
+.logo{
+
+    width: 200em;
+    margin: auto;
+     margin-top:3em;
+    display: flex;
+    padding: 1em 1em 1em 1em;
+ 
+}
+#textoyfoto{
+    padding: 1em 1em 1em 1em;
+    display: flex;
+
+}
+
